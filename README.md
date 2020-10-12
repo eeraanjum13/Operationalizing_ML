@@ -28,3 +28,10 @@ In this Project, we are a given dataset (Bank-marketing dataset) which is traine
 This step was not needed as a Virtual Machine was used where the authentication was already done.
 
 ## Step 2: Automated ML Experiment
+
+
+
+
+
+
+## The screencast of the project in given (here)[https://youtu.be/Y6VtDNEmzOg]
