@@ -43,8 +43,36 @@ After the experiment is completely run, few of the best performing models are li
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/best-model.PNG)
 
 
+## Step 3: Deploy the Best Model
+
+The best model is selected from the Auto ML model. 
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/best-model.PNG)
+
+The accuracy is close to 92% which shows that this model will be perfect for our dataset. The image below shows the 
+details of the best chosen model.
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/step2-show-model.PNG)
 
 
+## Step 4: Enable Application Insights
+
+After deploying the model we need to enable the application insights. The configuration information in the form of config.json can 
+be downloaded from the subscription of ML Studio. Then, keeping the config.json file in the same directory of the project, we can run the log.py file after adding
+the system.update(enable_application_insights=TRUE). 
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/logs1.PNG)
+
+After running logs.py:
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/log2.PNG)
+
+This will enable the application insights of our model. 
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/application-insights-enabled.PNG)
+
+
+## Step 5: Swagger Documentation
 
 
 ## Screencast of Project:
