@@ -20,6 +20,7 @@ In this Project, we are a given dataset (Bank-marketing dataset) which is traine
 
 7. Enabling an automated ML pipeline. 
 
+
 ## Architectural Diagram:
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/architectural-design.PNG)
