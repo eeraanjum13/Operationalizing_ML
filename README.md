@@ -138,7 +138,7 @@ The **pipeline created** successfully is shown in the Pipeline bar:
 **Scheduled Pipeline Run:**
 
 The pipeline is shown to be "Active" from the image below.
-![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/scheduled-runs.PNG)
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/scheduled_runs.PNG)
 
 
 
