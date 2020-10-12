@@ -69,13 +69,13 @@ the system.update(enable_application_insights=TRUE).
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/enable-app-insights.PNG)
 
 
-After running logs.py:
+After **running logs.py:**
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/logs1.PNG)
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/log2.PNG)
 
-This will enable the application insights of our model. 
+This will **enable the application insights** of our model. 
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/application-insights-enabled.PNG)
 
@@ -104,7 +104,7 @@ The restAPI URI and the primary key can be obtained from the deployed model as s
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/model-get-restAPI.PNG)
 
 In the endpoint.py file, the rest API and primary key should be copied from the model 
-and replaced in the variables 'scoring_uri' and 'key'.
+and replaced in the variables **'scoring_uri'** and **'key'**.
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/endpoint_s.PNG)
 
