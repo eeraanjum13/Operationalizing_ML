@@ -103,11 +103,42 @@ and replaced in the variables 'scoring_uri' and 'key'.
 The endpoint.py is executed against the API producing JSON output from the model. The image below shows the 
 action:
 
-![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/endpoint-output.PNG)
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/endpoint_output.PNG)
 
 
 ## Step 7: Create, Publish and Consume a Pipeline
 
+The automation of model experiments and deployment are shown in this section.
+
+After loading the starter code and filling out the necessary model names, workspaces and clusters used, a new pipepline is created. 
+The **pipeline created** successfully is shown in the Pipeline bar:
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/pipeline-created.PNG)
+
+**The Completed Pipeline Graph:** 
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/pipeline-graph.PNG)
+
+**Published Model Endpoint:**
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/pipeline-endpoint.PNG)
+
+**Rest Endpoint shown to be ACTIVE:**
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/rest-endpoint-active.PNG)
+
+**Pipeline Run-Widget:**
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/run-details-widget.PNG)
+
+**Bankmarketing Dataset in the AutoML module:**
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/registered-dataset.PNG)
+
+**Scheduled Pipeline Run:**
+
+The pipeline is shown to be "Active" from the image below.
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/scheduled-runs.PNG)
 
 
 
