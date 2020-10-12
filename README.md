@@ -65,9 +65,13 @@ After deploying the model we need to enable the application insights. The config
 be downloaded from the subscription of ML Studio. Then, keeping the config.json file in the same directory of the project, we can run the log.py file after adding
 the system.update(enable_application_insights=TRUE). 
 
-![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/logs1.PNG)
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/enable-app-insights.PNG)
+
 
 After running logs.py:
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/logs1.PNG)
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/log2.PNG)
 
