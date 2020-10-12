@@ -89,6 +89,29 @@ The contents of the page in the localhost are shown below:
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/healthy-status.PNG)
 
+## Step 6: Consume Model Endpoints
+
+The restAPI URI and the primary key can be obtained from the deployed model as shown in the image below.
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/model-get-restAPI.PNG)
+
+In the endpoint.py file, the rest API and primary key should be copied from the model 
+and replaced in the variables 'scoring_uri' and 'key'.
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/endpoint_s.PNG)
+
+The endpoint.py is executed against the API producing JSON output from the model. The image below shows the 
+action:
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/endpoint-output.PNG)
+
+
+## Step 7: Create, Publish and Consume a Pipeline
+
+
+
+
+
 ## Screencast of Project:
 
 The screencast of the project in given [here](https://youtu.be/Y6VtDNEmzOg)
