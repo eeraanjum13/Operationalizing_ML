@@ -91,7 +91,7 @@ The swagger.sh is run to check if the POST requests are responsive. The serve.py
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/bank-deploy.PNG)
 
-The contents of the page in the localhost are shown below:
+**The contents of the page running in the localhost are shown below:**
 
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/contents-of-API.PNG)
 
