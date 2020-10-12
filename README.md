@@ -74,6 +74,20 @@ This will enable the application insights of our model.
 
 ## Step 5: Swagger Documentation
 
+The swagger.json file is downloaded from the deployed model's details. This file is then kept inside the swagger file of the project directory with
+swagger.sh and serve.py file. 
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/swagger-uri.PNG)
+
+The swagger.sh is run to check if the POST requests are responsive. The serve.py is executed the POST request.
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/bank-deploy.PNG)
+
+The contents of the page in the localhost are shown below:
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/contents-of-API.PNG)
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/healthy-status.PNG)
 
 ## Screencast of Project:
 
