@@ -25,15 +25,20 @@ In this Project, we are a given dataset (Bank-marketing dataset) which is traine
 
 ## Step 1: Authentication
 
-![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/auto-ml-completed.PNG)
-
 This step was not needed as a Virtual Machine was used where the authentication was already done.
 
 ## Step 2: Automated ML Experiment
 
 
 
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/auto-ml-completed.PNG)
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/registered-dataset.PNG)
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/registered-dataset.PNG)
 
 
 
-## The screencast of the project in given (here)[https://youtu.be/Y6VtDNEmzOg]
+
+
+
+The screencast of the project in given [here](https://youtu.be/Y6VtDNEmzOg)
