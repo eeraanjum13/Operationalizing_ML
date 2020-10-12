@@ -1,5 +1,3 @@
-# Operationalizing_ML
-
 # Operationalizing Machine Learning
 
 ## **Overview:** 
@@ -28,17 +26,27 @@ In this Project, we are a given dataset (Bank-marketing dataset) which is traine
 This step was not needed as a Virtual Machine was used where the authentication was already done.
 
 ## Step 2: Automated ML Experiment
+**Data**
 
+The dataset used in this project can be found [here](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv).
 
+This dataset is first registered in the Auto ML Studio, shown in the image below. 
 
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/registered-dataset.PNG)
+
+The ML experiment run in ML Studio is completed, as shown in the image below.
 ![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/auto-ml-completed.PNG)
-![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/registered-dataset.PNG)
-
-![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/registered-dataset.PNG)
 
 
+After the experiment is completely run, few of the best performing models are listed with the highest accuracies. The top model is shown in the image below:
+
+![alt text](https://github.com/eeraanjum13/Operationalizing_ML/blob/main/best-model.PNG)
 
 
 
+
+
+
+## Screencast of Project:
 
 The screencast of the project in given [here](https://youtu.be/Y6VtDNEmzOg)
